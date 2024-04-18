@@ -1,3 +1,4 @@
+![logo](https://github.com/rchika/rchika/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Divya kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="divya" width="400" src="https://uploads.sarvgyan.com/2016/04/career-in-software-engineering.jpg">
